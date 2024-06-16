@@ -16,15 +16,15 @@ sidebar:
 
 ## Course Overview
 
-| **Day 1** | Introduction to Machine Learning | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/#demos) |
-| **Day 2** | Linear Regression | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/#demos) |
-| **Day 3** | Overfitting and Regularization | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-3/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-3/#demos) |
-| **Day 4** | Linear Classification | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-4/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-4/#demos) |
-| **Day 5** | Mini-Project | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/#starter-notebook) |
-| **Day 6** | Neural Networks | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/#demos) |
-| **Day 7** | Convolutional Neural Networks | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/#demos) |
-| **Day 8** | Further with ML/DL | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/) | - |
-| **Day 9** | Final Presentation | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
+| **Introduction to Machine Learning** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_1.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/#demos) |
+| **Linear Regression** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_2.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/#demos) |
+| **Overfitting and Regularization** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_3.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-3/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-3/#demos) |
+| **Linear Classification** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_4.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-4/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-4/#demos) |
+| **Mini-Project** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_5.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/#starter-notebook) |
+| **Neural Networks** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/#demos) |
+| **Convolutional Neural Networks** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/#demos) |
+| **Further with ML/DL** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/) | - |
+| **Final Presentation** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
 ## Instructors
 
