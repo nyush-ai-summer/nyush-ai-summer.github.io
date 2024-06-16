@@ -4,7 +4,7 @@ main:
 
 ml-summer-school:
   - title: "Course Home"
-    url: /ml-summer-school/course-overview/
+    url: "https://rugvedmhatre.github.io/machine-learning-summer/"
     children:
     - title: "Introduction to Machine Learning"
       url: /ml-summer-school/day-1/
