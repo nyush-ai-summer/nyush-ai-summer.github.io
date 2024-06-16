@@ -13,17 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Rugved Mhatre
-tagline: "Rugved Mhatre | Deep Learning, ML, Computer Architecture, DevOps | NYU, Oracle"
+title: NYU ML Summer School
+tagline: NYU ML Summer School
 email: rugved.mhatre+web@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  "Explore Rugved Mhatre's portfolio showcasing advanced projects in Deep Learning, Machine Learning, and Computer Architecture. Gain insights from his Master's experience at NYU, and discover innovative research and practical applications in the field of AI and technology. Dive into a journey of academic excellence and cutting-edge technological advancements."
+  NYU ML Summer School
 url: "https://rugvedmhatre.github.io"
-twitter_username: rugs_mhatre
-github_username: rugvedmhatre
 minimal_mistakes_skin: default
 search: true
-logo: "/assets/images/logo.jpeg"
 
 # Build settings
 markdown: kramdown
@@ -80,20 +77,20 @@ author:
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/rugs_mhatre"
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/rugved-mhatre/"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/rugvedmhatre"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/rugs_mhatre"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/therugvedmhatre"
+# footer:
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/rugved-mhatre/"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/rugvedmhatre"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/rugs_mhatre"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://instagram.com/therugvedmhatre"
 
 atom_feed:
   hide: true
