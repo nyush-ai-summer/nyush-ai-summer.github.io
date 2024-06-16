@@ -4,6 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: false
+header:
+    image: /assets/images/blog-images/nyu-header.jpg
+sidebar:
+    nav: "ml-summer-school"
 ---
 
 *NYU K12 STEM Education: Machine Learning Course Webiste*
