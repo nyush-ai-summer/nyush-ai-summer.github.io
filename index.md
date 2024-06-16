@@ -28,6 +28,6 @@ sidebar:
 
 ## Instructors
 
-| ![akshath-mahajan]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/akshath-cropped.jpg){: style="width: 25%;"} | ![rugved-mhatre]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo-cropped.jpg){: style="width: 25%;"} |
+| ![akshath-mahajan]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/akshath-cropped.jpg) | ![rugved-mhatre]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo-cropped.jpg) |
 | **Akshath Mahajan** | **Rugved Mhatre** |
 | [akshathmahajan@nyu.edu](mailto:akshathmahajan@nyu.edu) | [rugved.mhatre@nyu.edu](mailto:rugved.mhatre+web@nyu.edu) |
