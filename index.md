@@ -23,7 +23,7 @@ sidebar:
 | **Mini-Project** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_5.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-5/#starter-notebook) |
 | **Neural Networks** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_6.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/#demos) |
 | **Convolutional Neural Networks** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_7.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/#demos) |
-| **Further with ML/DL** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/) | - |
+| **Further with ML/DL and Unsupervised Learning** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/) | - |
 | **Final Presentation** | Slides | [Notes]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/) | [Demos]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
 ## Instructors
