@@ -4,10 +4,10 @@
 # See: https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 layout: single
 author_profile: false
-classes: wide
 header:
     image: /assets/images/blog-images/nyush-header.png
 sidebar: false
+classes: wide full
 ---
 
 *NYUSH AI Summer Course Webiste*
