@@ -25,6 +25,5 @@ sidebar: false
 
 ## Instructors
 
-| ![akshath-mahajan]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/akshath-cropped.jpg){: style="width: 80%;"} | ![rugved-mhatre]({{ site.url }}{{ site.baseurl }}/assets/images/bio-photo-cropped.jpg){: style="width: 80%;"} |
-| **Akshath Mahajan** | **Rugved Mhatre** |
-| [akshathmahajan@nyu.edu](mailto:akshathmahajan@nyu.edu) | [rugved.mhatre@nyu.edu](mailto:rugved.mhatre+web@nyu.edu) |
+| ![akshath-mahajan]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/wilson.jpg){: style="width: 80%;"} 
+| **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | 
