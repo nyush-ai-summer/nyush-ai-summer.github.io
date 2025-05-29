@@ -13,12 +13,12 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: NYU ML Summer School
-tagline: NYU ML Summer School
-email: rugved.mhatre+web@nyu.edu
+title: 2025 NYUSH AI Summer Program
+tagline: 2025 NYUSH AI Summer Program
+email: shanghai.summer.ai@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
-  NYU ML Summer School
-url: "https://rugvedmhatre.github.io"
+  2025 NYUSH AI Summer Program
+url: "https://jenniferfjy.github.io/"
 minimal_mistakes_skin: default
 search: true
 
