@@ -1,3 +1,3 @@
-# NYU K-12 STEM Education - Machine Learning Summer School
+# NYUSH AI Summer Program
 
-[Course Website](https://rugvedmhatre.github.io/machine-learning-summer/)
+[Course Website](https://jenniferfjy.github.io/nyush-ai-summer/)
