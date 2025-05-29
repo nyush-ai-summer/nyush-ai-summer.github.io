@@ -6,8 +6,8 @@ layout: single
 author_profile: false
 header:
     image: /assets/images/blog-images/nyush-header.png
-# sidebar:
-#    nav: "ml-summer-school"
+sidebar:
+    nav: false
 ---
 
 *NYUSH AI Summer Course Webiste*
