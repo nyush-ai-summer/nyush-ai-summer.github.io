@@ -25,5 +25,5 @@ sidebar: false
 
 ## Instructors
 
-| ![akshath-mahajan]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/wilson.jpg){: style="width: 80%;"} 
+| ![wilson]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/wilson.jpg){: style="width: 80%;"} 
 | **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | 
