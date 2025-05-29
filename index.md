@@ -10,7 +10,7 @@ sidebar:
     nav: "ml-summer-school"
 ---
 
-*NYU K12 STEM Education: Machine Learning Course Webiste*
+*NYUSH AI Summer Course Webiste*
 
 ![nyu-header]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/nyu-tandon-logo.png)
 
