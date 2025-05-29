@@ -5,7 +5,7 @@
 layout: single
 author_profile: false
 header:
-    image: /assets/images/blog-images/nyu-header.jpg
+    image: /assets/images/blog-images/nyush-header.jpg
 sidebar:
     nav: "ml-summer-school"
 ---
