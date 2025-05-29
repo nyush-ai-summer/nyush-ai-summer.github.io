@@ -6,8 +6,7 @@ layout: single
 author_profile: false
 header:
     image: /assets/images/blog-images/nyush-header.png
-sidebar: false
-classes: wide full
+classes: wide
 ---
 
 *NYUSH AI Summer Course Webiste*
