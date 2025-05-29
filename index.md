@@ -5,7 +5,7 @@
 layout: single
 author_profile: false
 header:
-    image: /assets/images/blog-images/nyush-header.png
+    image: /assets/images/blog-images/nyush-header2.png
 sidebar:
   nav: false
 classes: wide
