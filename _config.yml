@@ -18,7 +18,7 @@ tagline: NYUSH AI Summer Program
 email: shanghai.summer.ai@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   NYUSH AI Summer Program
-url: "https://jenniferfjy.github.io/"
+url: "https://nyush-ai-summer.github.io"
 minimal_mistakes_skin: default
 search: true
 
@@ -77,17 +77,17 @@ plugins:
 #       icon: "fab fa-fw fa-twitter-square"
 #       url: "https://twitter.com/rugs_mhatre"
 
-footer:
-  links:
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/school/nyushanghai/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/nyushanghai/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://www.instagram.com/nyushanghai/"
+# footer:
+#   links:
+#     - label: "LinkedIn"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/school/nyushanghai/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/nyushanghai/"
+#     - label: "Instagram"
+#       icon: "fab fa-fw fa-instagram"
+#       url: "https://www.instagram.com/nyushanghai/"
 
 atom_feed:
   hide: true
