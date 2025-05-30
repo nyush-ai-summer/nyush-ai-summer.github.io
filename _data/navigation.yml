@@ -2,26 +2,11 @@ main:
   - title: "Home"
     url: "https://nyush-ai-summer.github.io/"
 
-about:
-  - title: "About Organizers"
-    url: "/about/"
-  
-    # children:
-    # - title: "Introduction to Machine Learning"
-    #   url: /ml-summer-school/day-1/
-    # - title: "Linear Regression"
-    #   url: /ml-summer-school/day-2/
-    # - title: "Overfitting and Regularization"
-    #   url: /ml-summer-school/day-3/
-    # - title: "Linear Classification"
-    #   url: /ml-summer-school/day-4/
-    # - title: "Mini-Project"
-    #   url: /ml-summer-school/day-5/
-    # - title: "Neural Networks"
-    #   url: /ml-summer-school/day-6/
-    # - title: "Convolutional Neural Networks"
-    #   url: /ml-summer-school/day-7/
-    # - title: "Further with ML/DL"
-    #   url: /ml-summer-school/day-8/
-    # - title: "Final Presentation"
-    #   url: /ml-summer-school/day-9/
+ai-summer:
+  - title: "Course Home"
+    url: "https://nyush-ai-summer.github.io/"
+    children:
+    - title: "About"
+      url: /about/
+
+
