@@ -1,7 +1,6 @@
 ---
 title: "About"
 layout: single
-permalink: /about/
 author_profile: false
 header:
   image: /assets/images/blog-images/nyush-header2.png
