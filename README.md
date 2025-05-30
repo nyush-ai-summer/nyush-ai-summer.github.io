@@ -1,3 +1,3 @@
 # NYUSH AI Summer Program
 
-[Course Website](https://jenniferfjy.github.io/nyush-ai-summer/)
+[Course Website](https://nyush-ai-summer.github.io)
