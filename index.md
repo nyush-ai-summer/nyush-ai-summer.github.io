@@ -7,7 +7,7 @@ author_profile: false
 header:
     image: /assets/images/blog-images/nyush-header2.png
 sidebar:
-  nav: false
+  nav: navigation.yml
 classes: wide
 ---
 
