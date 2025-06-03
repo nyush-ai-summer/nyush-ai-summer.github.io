@@ -1,5 +1,5 @@
 ---
-layout: null
+layout: single
 author_profile: false
 header:
   image: /assets/images/blog-images/nyush-header.png
