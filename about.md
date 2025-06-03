@@ -83,6 +83,7 @@ classes: wide
     <p style="font-size: 14px; text-align: center;"> Dean of Business, NYU Shanghai Distinguished Global Professor of Business</p>
   </div>
 
+
 ### Program Advisors
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
@@ -104,7 +105,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/hary.jpg" alt="harry" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/harry.jpg" alt="harry" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Harry Meng
     </p>
@@ -119,5 +120,4 @@ classes: wide
     <p style="font-size: 14px; text-align: center;"> Chief of Staff to the Provost, NYU Shanghai</p>
   </div>
 
-## Management & Support Team
  
