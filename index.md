@@ -30,6 +30,6 @@ classes: wide
 
 | **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | **[Zhaonan Wang](https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan)** | **[Mathieu Laurière](https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere)** | **[Li Guo](https://cs.shanghai.nyu.edu/faculty/li-guo-guoli)** 
 
-| ![hongyi]({{ site.url }}{{ site.baseurl }}/assets/images/people/hongyi.jpg){: style="width: 150px;"} | ![qiaoyu]({{ site.url }}{{ site.baseurl }}/assets/images/people/qiaoyu.jpg){: style="width: 150px;"} | ![shengjie]({{ site.url }}{{ site.baseurl }}/assets/images/people/shengjie.jpg){: style="width: 150px;"} | ![chen]({{ site.url }}{{ site.baseurl }}/assets/images/people/chen.png){: style="width: 150px;"} 
+| ![hongyi]({{ site.url }}{{ site.baseurl }}/assets/images/people/hongyi.jpg){: style="width: 150px;"} | ![qiaoyu]({{ site.url }}{{ site.baseurl }}/assets/images/people/qiaoyu.jpg){: style="width: 150px;"} | ![shengjie]({{ site.url }}{{ site.baseurl }}/assets/images/people/shengjie.jpg){: style="width: 150px;"} | ![chen]({{ site.url }}{{ site.baseurl }}/assets/images/people/chen.jpg){: style="width: 150px;"} 
 
 | **[Hongyi Wen](https://cs.shanghai.nyu.edu/faculty/hongyi-wen-wenhongyi)** | **[Qiaoyu Tan](https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu)** | **[Shengjie Wang](https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie)** | **[Chen Zhao](https://cs.shanghai.nyu.edu/faculty/chen-zhao-zhaochen)** 
