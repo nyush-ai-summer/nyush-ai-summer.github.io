@@ -29,6 +29,8 @@ classes: wide
 | **Day7: Advanced topics on Computer Vision** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/#demos) |
 | **Day8: Neural Language Modeling** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_9.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
+<div style="margin-top: 2em;"></div>
+
 <div>
     <h1 style="
       background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
