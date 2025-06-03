@@ -11,9 +11,14 @@ sidebar:
 classes: wide
 ---
 
-*NYUSH AI Summer Course Webiste*
-
-## Course Overview
+<h1 style="
+  background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+">
+  Course Overview
+</h1>
 
 | **Day1: Introduction to Artificial Intelligence** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_1.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/#demos) |
 | **Day2: Linear Regression** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_2.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/#demos) |
@@ -24,7 +29,14 @@ classes: wide
 | **Day7: Advanced topics on Computer Vision** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/#demos) |
 | **Day8: Neural Language Modeling** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_9.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
-## Instructors
+<h1 style="
+  background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+">
+  Instructors
+</h1>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
 
@@ -35,6 +47,7 @@ classes: wide
           Wilson Tam
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Professor of Practice in Computer Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -44,6 +57,7 @@ classes: wide
           Zhaonan Wang
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Urban Studies and Computer Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -53,6 +67,7 @@ classes: wide
           Mathieu Laurière
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Mathematics and Data Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -62,6 +77,7 @@ classes: wide
           Li Guo
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Area Head of Data Science; Associate Professor of Practice in Data Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -71,6 +87,7 @@ classes: wide
           Hongyi Wen
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Computer Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -80,6 +97,7 @@ classes: wide
           Qiaoyu Tan
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Computer Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -89,6 +107,7 @@ classes: wide
           Shengjie Wang
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Computer Science, NYU Shanghai</p>
   </div>
 
   <div>
@@ -98,6 +117,7 @@ classes: wide
           Chen Zhao
         </a>
     </p>
+    <p style="font-size: 14px; text-align: center;">Assistant Professor of Computer Science, NYU Shanghai</p>
   </div>
 
 </div>
