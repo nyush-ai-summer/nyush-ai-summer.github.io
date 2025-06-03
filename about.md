@@ -17,23 +17,23 @@ classes: wide
 
   <div style="max-width: 500px;">
     <h3 style="margin: 0;">Nasir Memon</h3>
-    <p style="font-size: 16px; margin: 0.2em 0;">Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</p>
-    <p style="font-size: 18px; margin-top: 0.5em; font-style: italic;">
+    <p style="font-size: 16px; margin: 0.35em 0;">Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</p>
+    <p style="font-size: 18px; margin-top: 1em; font-style: italic;">
       "AI is transforming every aspect of our society—from the way we work and communicate to how we solve global challenges. For young people, learning AI isn’t just about mastering technology; it’s about understanding the world they will shape. This program gives students the skills and mindset to be creators, not just consumers, of AI-driven change."
     </p>
   </div>
 
 </div>
 
-
-![csdse]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/csdse2.png){: style="width: 100%;"}
+## <span style="color: #5d1889;">Computer Science, Data Science, and Engineering</span>
+![csdse]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/csdse.png){: style="width: 50%;"}
 
 <small>[Computer Science, Data Science, and Engineering](https://cs.shanghai.nyu.edu/) at NYU Shanghai is dedicated to fostering tech talent with a global perspective, innovative thinking, and a strong sense of social responsibility. As a core academic division at China’s first Sino-American research university, the department unites a world-class faculty team. It utilizes interdisciplinary collaboration to offer undergraduate and doctoral programs in computer science, data science, and computer engineering.</small>
 
 <small>Students benefit from NYU’s global education network and resources while gaining opportunities to work alongside academic experts and industry leaders on cutting-edge topics ranging from algorithm optimization to generative AI. Here, computing is not just about code and algorithms — it bridges Eastern and Western knowledge and addresses global challenges. With a strong foundation in rigorous academics and cross-cultural collaboration, we empower students to become pioneers in driving technological innovation and shaping the global future.</small>
 
-
-![center]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/aicenter2.png){: style="width: 80%;"}
+## <span style="color: #5d1889;">Shanghai Frontiers Science Center for Artificial Intelligence and Deep Learning</span>
+![center]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/aicenter.png){: style="width: 50%;"}
 
 <small>Founded in 2023 at NYU Shanghai, the [Shanghai Frontiers Science Center for Artificial Intelligence and Deep Learning](https://dail.shanghai.nyu.edu/) focuses on advancing research and innovation in AI and deep learning. The center seeks to investigate the mathematical principles and scientific foundations that support artificial intelligence by bringing together insights from mathematics, physics, chemistry, and other fields.</small>
 
