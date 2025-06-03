@@ -56,26 +56,6 @@ plugins:
   - jekyll-include-cache
   - jekyll-seo-tag
 
-# author:
-#   name   : "Rugved Mhatre"
-#   avatar : "/assets/images/bio-photo.jpg"
-#   bio    : "MS. Computer Engineering @NYU Ex-Oracle"
-#   links:
-#     - label: "New York City"
-#       icon: "fas fa-fw fa-map-marker-alt"
-#       url: ""
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope"
-#       url: "mailto:rugved.mhatre+web@nyu.edu"
-#     - label: "LinkedIn"
-#       icon: "fab fa-fw fa-linkedin"
-#       url: "https://www.linkedin.com/in/rugved-mhatre/"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/rugvedmhatre"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/rugs_mhatre"
 
 # footer:
 #   links:
@@ -93,19 +73,19 @@ atom_feed:
   hide: true
 
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-      mathjax: true
-  # _pages
+#   # _posts
+#   - scope:
+#       path: ""
+#       type: posts
+#     values:
+#       layout: single
+#       author_profile: true
+#       read_time: true
+#       comments: true
+#       share: true
+#       related: true
+#       mathjax: true
+#  # _pages
   - scope:
       path: "_pages"
       type: pages
