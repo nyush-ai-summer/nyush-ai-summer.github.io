@@ -96,7 +96,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/harry.jpg" alt="harry" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/harry2.jpg" alt="harry" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Harry Meng
     </p>
