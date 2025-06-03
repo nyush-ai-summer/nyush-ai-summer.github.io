@@ -26,54 +26,46 @@ classes: wide
 
 ## Instructors
 
-| ![wilson]({{ site.url }}{{ site.baseurl }}/assets/images/people/wilson.jpg){: style="width: 150px;"} | ![zhaonan]({{ site.url }}{{ site.baseurl }}/assets/images/people/zhaonan.jpg){: style="width: 150px;"} | ![mathieu]({{ site.url }}{{ site.baseurl }}/assets/images/people/mathieu.jpg){: style="width: 150px;"} | ![li]({{ site.url }}{{ site.baseurl }}/assets/images/people/li.png){: style="width: 150px;"} 
-
-| **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | **[Zhaonan Wang](https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan)** | **[Mathieu Laurière](https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere)** | **[Li Guo](https://cs.shanghai.nyu.edu/faculty/li-guo-guoli)** 
-
-| ![hongyi]({{ site.url }}{{ site.baseurl }}/assets/images/people/hongyi2.jpg){: style="width: 150px;"} | ![qiaoyu]({{ site.url }}{{ site.baseurl }}/assets/images/people/qiaoyu.jpg){: style="width: 150px;"} | ![shengjie]({{ site.url }}{{ site.baseurl }}/assets/images/people/shengjie.jpg){: style="width: 150px;"} | ![chen]({{ site.url }}{{ site.baseurl }}/assets/images/people/chen.jpg){: style="width: 150px;"} 
-
-| **[Hongyi Wen](https://cs.shanghai.nyu.edu/faculty/hongyi-wen-wenhongyi)** | **[Qiaoyu Tan](https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu)** | **[Shengjie Wang](https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie)** | **[Chen Zhao](https://cs.shanghai.nyu.edu/faculty/chen-zhao-zhaochen)** 
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 24px; text-align: center;">
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 18px; text-align: center;">
 
   <div>
     <img src="/assets/images/people/wilson.jpg" alt="Photo 1" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 1 description</p>
+    <p>[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/zhaonan.jpg" alt="Photo 2" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 2 description</p>
+    <p>[Zhaonan Wang](https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/mathieu.jpg" alt="Photo 3" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 3 description</p>
+    <p>[Mathieu Laurière](https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/li.png" alt="Photo 4" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 4 description</p>
+    <p>[Li Guo](https://cs.shanghai.nyu.edu/faculty/li-guo-guoli)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/hongyi2.jpg" alt="Photo 5" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 5 description</p>
+    <p>[Hongyi Wen](https://cs.shanghai.nyu.edu/faculty/hongyi-wen-wenhongyi)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/qiaoyu.jpg" alt="Photo 6" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 6 description</p>
+    <p>[Qiaoyu Tan](https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/shengjie.jpg" alt="Photo 7" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 7 description</p>
+    <p>[Shengjie Wang](https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie)</p>
   </div>
 
   <div>
     <img src="/assets/images/people/chen.jpg" alt="Photo 8" style="width: 150px; border-radius: 8px;" />
-    <p>Photo 8 description</p>
+    <p>[Chen Zhao](https://cs.shanghai.nyu.edu/faculty/chen-zhao-zhaochen)</p>
   </div>
 
 </div>
