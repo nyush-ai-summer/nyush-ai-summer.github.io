@@ -11,7 +11,7 @@ classes: wide
 
 ## Founder of the AI Summer Program
 
-![nasir]({{ site.url }}{{ site.baseurl }}/assets/images/people/nasir.jpg){: style="260px;"}
+![nasir]({{ site.url }}{{ site.baseurl }}/assets/images/people/nasir.jpg){: style="100px;"}
 
 Nasir Memon
 
