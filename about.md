@@ -18,7 +18,7 @@ classes: wide
 </h1>
 
 
-<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 2em; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
 
   <img src="/assets/images/people/nasir.jpg" alt="nasir" style="width: 260px;" />
 
