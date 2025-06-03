@@ -11,13 +11,20 @@ classes: wide
 
 ## Founder of the AI Summer Program
 
-![nasir]({{ site.url }}{{ site.baseurl }}/assets/images/people/nasir.jpg){: style="100px;"}
+<div style="display: flex; align-items: center; gap: 24px; margin-bottom: 2em; flex-wrap: wrap;">
 
-Nasir Memon
+  <img src="/assets/images/people/nasir.jpg" alt="Jane Doe" style="width: 100px; border-radius: 8px;" />
 
-<small>Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</small>
+  <div style="max-width: 500px;">
+    <h3 style="margin: 0;">Nasir Memon</h3>
+    <p style="margin: 0.2em 0;">Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</p>
+    <p style="margin-top: 0.5em; font-style: italic;">
+      "AI is transforming every aspect of our society—from the way we work and communicate to how we solve global challenges. For young people, learning AI isn’t just about mastering technology; it’s about understanding the world they will shape. This program gives students the skills and mindset to be creators, not just consumers, of AI-driven change."
+    </p>
+  </div>
 
-<small> *"AI is transforming every aspect of our society—from the way we work and communicate to how we solve global challenges. For young people, learning AI isn’t just about mastering technology; it’s about understanding the world they will shape. This program gives students the skills and mindset to be creators, not just consumers, of AI-driven change."* </small>
+</div>
+
 
 ![csdse]({{ site.url }}{{ site.baseurl }}/assets/images/blog-images/csdse2.png){: style="width: 100%;"}
 
