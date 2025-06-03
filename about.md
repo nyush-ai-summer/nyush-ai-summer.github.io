@@ -132,7 +132,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/jingyi.png" alt="jingyi" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/jingyi.jpg" alt="jingyi" style="width: 150px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Jennifer Feng
     </p>
