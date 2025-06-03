@@ -11,7 +11,7 @@ classes: wide
 
 ## Founder of the AI Summer Program
 
-![nasir]({{ site.url }}{{ site.baseurl }}/assets/images/people/nasir.png){: style="width: 70%;"}
+![nasir]({{ site.url }}{{ site.baseurl }}/assets/images/people/nasir.jpg){: style="width: 70%;"}
 
 Nasir Memon
 Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University
