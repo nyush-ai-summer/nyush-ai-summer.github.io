@@ -48,7 +48,7 @@ classes: wide
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/brandon.jpg" alt="brandon" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/brandon.jpg" alt="brandon" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Brandon Reagen
     </p>
@@ -56,7 +56,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/hanan.jpg" alt="hanan" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/hanan.jpg" alt="hanan" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Hanan Salam
     </p>
@@ -64,7 +64,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/linda.png" alt="linda" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/linda.png" alt="linda" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Linda Sellie
     </p>
@@ -72,7 +72,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/yuxin.jpg" alt="yuxin" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/yuxin.jpg" alt="yuxin" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Yuxin Chen
     </p>
@@ -80,7 +80,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/ben.jpg" alt="ben" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/ben.jpg" alt="ben" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Ben Esner
     </p>
@@ -88,7 +88,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/david.jpg" alt="david" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/david.jpg" alt="david" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         David Pe
     </p>
@@ -96,7 +96,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/harry.jpg" alt="harry" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/harry.jpg" alt="harry" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Harry Meng
     </p>
@@ -104,7 +104,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/yvonne.png" alt="yvonne" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/yvonne.png" alt="yvonne" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Yvonne Liu
     </p>
@@ -116,7 +116,7 @@ classes: wide
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/maggie.jpg" alt="maggie" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/maggie.jpg" alt="maggie" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Maggie Mao
     </p>
@@ -124,7 +124,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/sven.jpg" alt="sven" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/sven.jpg" alt="sven" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Sven Simikin
     </p>
@@ -132,7 +132,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/jingyi.jpg" alt="jingyi" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/jingyi.jpg" alt="jingyi" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Jennifer Feng
     </p>
@@ -140,7 +140,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/yangxi.jpg" alt="yangxi" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/yangxi.jpg" alt="yangxi" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Yangxi Liu
     </p>
