@@ -5,7 +5,7 @@
 layout: single
 author_profile: false
 header:
-    image: /assets/images/blog-images/nyush-header2.png
+    image: /assets/images/blog-images/nyush-header.png
 sidebar:
   nav: ai-summer
 classes: wide
@@ -26,5 +26,10 @@ classes: wide
 
 ## Instructors
 
-| ![wilson]({{ site.url }}{{ site.baseurl }}/assets/images/ml-summer-school/wilson.jpg){: style="width: 80%;"} 
-| **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | 
+| ![wilson]({{ site.url }}{{ site.baseurl }}/assets/images/people/wilson.jpg){: style="width: 90%;"} | ![zhaonan]({{ site.url }}{{ site.baseurl }}/assets/images/people/zhaonan.jpg){: style="width: 90%;"} | ![mathieu]({{ site.url }}{{ site.baseurl }}/assets/images/people/mathieu.jpg){: style="width: 90%;"} | ![li]({{ site.url }}{{ site.baseurl }}/assets/images/people/li.png){: style="width: 90%;"} 
+
+| **[Wilson Tam](https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang)** | **[Zhaonan Wang](https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan)** | **[Mathieu Laurière](https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere)** | **[Li Guo](https://cs.shanghai.nyu.edu/faculty/li-guo-guoli)** 
+
+| ![hongyi]({{ site.url }}{{ site.baseurl }}/assets/images/people/hongyi.jpg){: style="width: 90%;"} | ![qiaoyu]({{ site.url }}{{ site.baseurl }}/assets/images/people/qiaoyu.jpg){: style="width: 90%;"} | ![shengjie]({{ site.url }}{{ site.baseurl }}/assets/images/people/shengjie.jpg){: style="width: 90%;"} | ![chen]({{ site.url }}{{ site.baseurl }}/assets/images/people/chen.png){: style="width: 90%;"} 
+
+| **[Hongyi Wen](https://cs.shanghai.nyu.edu/faculty/hongyi-wen-wenhongyi)** | **[Qiaoyu Tan](https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu)** | **[Shengjie Wang](https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie)** | **[Chen Zhao](https://cs.shanghai.nyu.edu/faculty/chen-zhao-zhaochen)** 
