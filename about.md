@@ -69,7 +69,7 @@ classes: wide
     <p style="font-size: 18px; text-align: center;">
         Linda Sellie
     </p>
-    <p style="font-size: 14px; text-align: center;"> Industry Professor; Supervisor of ACM Women’s Chapter, NYU</p>
+    <p style="font-size: 14px; text-align: center;"> Industry Professor, NYU Tandon; Supervisor of ACM Women’s Chapter, NYU</p>
   </div>
 
   <div>
