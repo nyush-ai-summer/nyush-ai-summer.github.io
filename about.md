@@ -3,7 +3,7 @@ title: "About Organizers"
 layout: single
 author_profile: false
 header:
-  image: /assets/images/blog-images/nyush-header2.png
+  image: /assets/images/blog-images/nyush-header.png
 sidebar:
   nav: ai-summer
 classes: wide
