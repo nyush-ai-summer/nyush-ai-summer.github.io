@@ -94,7 +94,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/qiaoyu.jpg" alt="qiaoyu" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/qiaoyu2.jpg" alt="qiaoyu" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu" target="_blank" style="text-decoration: none; ">
           Qiaoyu Tan
