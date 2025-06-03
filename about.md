@@ -21,10 +21,10 @@ classes: wide
 
 <div style="display: flex; align-items: center; gap: 24px; margin-bottom: 2em; flex-wrap: wrap;">
 
-  <img src="/assets/images/people/nasir.jpg" alt="nasir" style="width: 260px; border-radius: 8px;" />
+  <img src="/assets/images/people/nasir.jpg" alt="nasir" style="width: 260px;" />
 
   <div style="max-width: 600px;">
-    <p style="font-size: 23px; font-style: bold;">Nasir Memon</p>
+    <h4>Nasir Memon</h4>
     <p style="font-size: 16px;">Interim Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor of Computer Science and Engineering, NYU Tandon</p>
     <p style="font-size: 18px; margin-top: 1em; font-style: italic;">
       "AI is transforming every aspect of our society—from the way we work and communicate to how we solve global challenges. For young people, learning AI isn’t just about mastering technology; it’s about understanding the world they will shape. This program gives students the skills and mindset to be creators, not just consumers, of AI-driven change."
