@@ -47,8 +47,6 @@ classes: wide
 
 ## Advisory Committee
 
-### Academic Advisors
-
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
   <div>
     <img src="/assets/images/people/brandon.jpg" alt="brandon" style="width: 130px; border-radius: 2px;" />
@@ -83,9 +81,6 @@ classes: wide
   </div>
 </div>
 
-### Program Advisors
-
-<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
   <div>
     <img src="/assets/images/people/ben.jpg" alt="ben" style="width: 130px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
