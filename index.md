@@ -29,20 +29,22 @@ classes: wide
 | **Day7: Advanced topics on Computer Vision** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/#demos) |
 | **Day8: Neural Language Modeling** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_9.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
 
-<h1 style="
-  background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  display: inline-block;
-">
-  Instructors
-</h1>
+<div>
+    <h1 style="
+      background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+    ">
+      Instructors
+    </h1>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
 
   <div>
-    <img src="/assets/images/people/wilson.jpg" alt="wilson" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/wilson.jpg" alt="wilson" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/yik-cheung-tam-tanyizhang" target="_blank" style="text-decoration: none; ">
           Wilson Tam
         </a>
@@ -51,8 +53,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/zhaonan.jpg" alt="zhaonan" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/zhaonan.jpg" alt="zhaonan" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/zhaonan-wang-wangzhaonan" target="_blank" style="text-decoration: none; ">
           Zhaonan Wang
         </a>
@@ -61,8 +63,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/mathieu.jpg" alt="mathieu" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/mathieu.jpg" alt="mathieu" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/mathieu-lauriere" target="_blank" style="text-decoration: none; ">
           Mathieu Laurière
         </a>
@@ -71,8 +73,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/li.png" alt="li" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/li.png" alt="li" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/li-guo-guoli" target="_blank" style="text-decoration: none; ">
           Li Guo
         </a>
@@ -81,8 +83,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/hongyi2.jpg" alt="hongyi" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/hongyi2.jpg" alt="hongyi" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/hongyi-wen-wenhongyi" target="_blank" style="text-decoration: none; ">
           Hongyi Wen
         </a>
@@ -91,8 +93,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/qiaoyu.jpg" alt="qiaoyu" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/qiaoyu.jpg" alt="qiaoyu" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/qiaoyu-tan-tanqiaoyu" target="_blank" style="text-decoration: none; ">
           Qiaoyu Tan
         </a>
@@ -101,8 +103,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/shengjie.jpg" alt="shengjie" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/shengjie.jpg" alt="shengjie" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/shengjie-wang-wangshengjie" target="_blank" style="text-decoration: none; ">
           Shengjie Wang
         </a>
@@ -111,8 +113,8 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/chen.jpg" alt="chen" style="width: 150px; border-radius: 2px;" />
-    <p style="font-size: 20px; text-align: center;">
+    <img src="/assets/images/people/chen.jpg" alt="chen" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
         <a href="https://cs.shanghai.nyu.edu/faculty/chen-zhao-zhaochen" target="_blank" style="text-decoration: none; ">
           Chen Zhao
         </a>
