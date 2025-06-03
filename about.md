@@ -21,3 +21,43 @@ classes: wide
 <small>Founded in 2023 at NYU Shanghai, the [Shanghai Frontiers Science Center for Artificial Intelligence and Deep Learning](https://dail.shanghai.nyu.edu/) focuses on advancing research and innovation in AI and deep learning. The center seeks to investigate the mathematical principles and scientific foundations that support artificial intelligence by bringing together insights from mathematics, physics, chemistry, and other fields.</small>
 
 <small>Uniting the leading interdisciplinary research talent at NYU Shanghai, the center is committed to developing the next generation of interpretable, adaptive, and human-centered AI learning algorithms. It also aims to extend deep learning technologies into pioneering areas like biochemistry, neuroscience, and innovative city engineering, working to achieve globally significant breakthroughs in AI research applications.</small>
+
+## Advisory Committee
+
+### Academic Advisors
+
+<div style="display: grid; grid-template-columns: repeat(4, 1fr); gap: 6px; text-align: center;">
+
+  <div>
+    <img src="/assets/images/people/brandon.jpg" alt="brandon" style="width: 150px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Brandon Reagen
+    </p>
+    <p style="font-size: 15px; text-align: center;"> Professor, NYU Former Facebook AI Scientist</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/hanan.jpg" alt="hanan" style="width: 150px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Hanan Salam
+    </p>
+    <p style="font-size: 15px; text-align: center;"> Professor, NYU Abu Dhabi Co-founder of Women in AI</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/linda.jpg" alt="linda" style="width: 150px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Linda Sellie
+    </p>
+    <p style="font-size: 15px; text-align: center;"> Industry Professor; Supervisor of ACM Women’s Chapter, NYU</p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/li.png" alt="Photo 4" style="width: 150px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Chen Yuxin
+    </p>
+    <p style="font-size: 15px; text-align: center;"> Dean of Business, NYU Shanghai Distinguished Global Professor of Business</p>
+  </div>
+
+ 
