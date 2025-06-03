@@ -8,16 +8,14 @@ sidebar:
 classes: wide
 ---
 
-<div>
-  <h2 style="
-    background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
-    -webkit-background-clip: text;
-    -webkit-text-fill-color: transparent;
-    display: inline-block;
-  ">
-    About Organizers
-  </h2>
-</div>
+<h1 style="
+  background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+">
+  About Organizers
+</h1>
 
 ## Founder of the AI Summer Program
 
