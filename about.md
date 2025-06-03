@@ -45,7 +45,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/linda.jpg" alt="linda" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/linda.png" alt="linda" style="width: 150px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Linda Sellie
     </p>
@@ -53,7 +53,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/li.png" alt="Photo 4" style="width: 150px; border-radius: 2px;" />
+    <img src="/assets/images/people/yuxin.jpg" alt="yuxin" style="width: 150px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Chen Yuxin
     </p>
