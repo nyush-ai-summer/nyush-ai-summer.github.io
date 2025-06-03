@@ -21,6 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: "https://nyush-ai-summer.github.io"
 minimal_mistakes_skin: default
 search: true
+logo: /assets/images/logo.png
 
 # Build settings
 markdown: kramdown
