@@ -15,7 +15,7 @@ classes: wide
 
   <img src="/assets/images/people/nasir.jpg" alt="nasir" style="width: 300px; border-radius: 8px;" />
 
-  <div style="max-width: 800px;">
+  <div style="max-width: 500px;">
     <h3 style="margin: 0;">Nasir Memon</h3>
     <p style="font-size: 16px; margin: 0.2em 0;">Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</p>
     <p style="font-size: 18px; margin-top: 0.5em; font-style: italic;">
