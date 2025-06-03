@@ -35,9 +35,9 @@ classes: wide
       -webkit-background-clip: text;
       -webkit-text-fill-color: transparent;
       display: inline-block;
-      margin-top: 2em;
+      margin-top: 1.5em;
     ">
-      Instructors
+      Faculty
     </h1>
 </div>
 
