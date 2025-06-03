@@ -25,7 +25,7 @@ classes: wide
 
   <div style="max-width: 600px;">
     <p style="font-size: 23px; font-style: bold;">Nasir Memon</p>
-    <p style="font-size: 16px; margin: 0.35em 0;">Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor, New York University</p>
+    <p style="font-size: 16px; margin: 0.35em 0;">Interim Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor of Computer Science and Engineering, NYU Tandon</p>
     <p style="font-size: 18px; margin-top: 1em; font-style: italic;">
       "AI is transforming every aspect of our society—from the way we work and communicate to how we solve global challenges. For young people, learning AI isn’t just about mastering technology; it’s about understanding the world they will shape. This program gives students the skills and mindset to be creators, not just consumers, of AI-driven change."
     </p>
@@ -53,7 +53,7 @@ classes: wide
     <p style="font-size: 18px; text-align: center;">
         Brandon Reagen
     </p>
-    <p style="font-size: 14px; text-align: center;"> Professor, NYU Former Facebook AI Scientist</p>
+    <p style="font-size: 14px; text-align: center;"> Assistant Professor of Electrical and Computer Engineering, NYU Tandon; Former Facebook AI Scientist</p>
   </div>
 
   <div>
@@ -61,7 +61,7 @@ classes: wide
     <p style="font-size: 18px; text-align: center;">
         Hanan Salam
     </p>
-    <p style="font-size: 14px; text-align: center;"> Professor, NYU Abu Dhabi Co-founder of Women in AI</p>
+    <p style="font-size: 14px; text-align: center;"> Assistant Professor of Computer Science, NYU Abu Dhabi; Co-founder of Women in AI</p>
   </div>
 
   <div>
@@ -77,9 +77,8 @@ classes: wide
     <p style="font-size: 18px; text-align: center;">
         Chen Yuxin
     </p>
-    <p style="font-size: 14px; text-align: center;"> Dean of Business, NYU Shanghai Distinguished Global Professor of Business</p>
+    <p style="font-size: 14px; text-align: center;"> Dean of Business, NYU Shanghai; Distinguished Global Professor of Business</p>
   </div>
-</div>
 
   <div>
     <img src="/assets/images/people/ben.jpg" alt="ben" style="width: 130px; border-radius: 2px;" />
