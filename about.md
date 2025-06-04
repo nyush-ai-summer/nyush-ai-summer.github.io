@@ -18,11 +18,11 @@ classes: wide
 </h1>
 
 
-<div style="display: flex; align-items: center; flex-wrap: wrap;">
+<div style="display: flex; align-items: center; gap: 24px; flex-wrap: wrap;">
 
   <img src="/assets/images/people/nasir.jpg" alt="nasir" style="width: 260px;" />
 
-  <div style="max-width: 600px;">
+  <div style="max-width: 500px;">
     <h5>Nasir Memon</h5>
     <p style="font-size: 16px;">Interim Dean of Computer Science, Data Science, and Engineering, NYU Shanghai; Professor of Computer Science and Engineering, NYU Tandon</p>
     <p style="font-size: 18px; margin-top: 1em; font-style: italic;">
