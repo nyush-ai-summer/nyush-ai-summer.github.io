@@ -20,14 +20,14 @@ classes: wide
   Course Overview
 </h1>
 
-| **Day1: Introduction to Artificial Intelligence** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_1.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-1/#demos) |
-| **Day2: Linear Regression** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_2.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-2/#demos) |
-| **Day3: Polynomial Regression, Regularization, Optimization** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_3.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-3/#demos) |
-| **Day4: Logistic Regression** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_4.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-4/#demos) |
-| **Day5: Neural Networks** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_6.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-6/#demos) |
-| **Day6: Convolutional Neural Networks** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_7.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-7/#demos) |
-| **Day7: Advanced topics on Computer Vision** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_8.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-8/#demos) |
-| **Day8: Neural Language Modeling** | [Slides]({{ site.url }}{{ site.baseurl }}/assets/pdfs/NYU_ML_Summer_School_Day_9.pdf) | [Lab]({{ site.url }}{{ site.baseurl }}/ml-summer-school/day-9/#demos) |
+| **Day1: Introduction to Artificial Intelligence** | Slides | Lab |
+| **Day2: Linear Regression** | Slides | Lab |
+| **Day3: Polynomial Regression, Regularization, Optimization** | Slides| Lab |
+| **Day4: Logistic Regression** | Slides| Lab |
+| **Day5: Neural Networks** | Slides | Lab |
+| **Day6: Convolutional Neural Networks** | Slides | Lab |
+| **Day7: Advanced topics on Computer Vision** | Slides | Lab |
+| **Day8: Neural Language Modeling** | Slides | Lab |
 
 <div>
     <h1 style="
