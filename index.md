@@ -125,3 +125,53 @@ classes: wide
 
 </div>
 
+## Peer Mentors
+
+<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
+  <div>
+    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Esther Feng
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/adella.jpg" alt="adella" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Adella Hu
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/jason.jpg" alt="jason" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Jason Jiang
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Data Science </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/eric.jpg" alt="eric" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Eric Liang
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Sienna Ni
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/kenny.jpg" alt="kenny" style="width: 130px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Kenny Su
+    </p>
+    <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
+  </div>
