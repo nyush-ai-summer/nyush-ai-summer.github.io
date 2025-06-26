@@ -125,11 +125,21 @@ classes: wide
 
 </div>
 
-## Peer Mentors
+<div>
+    <h1 style="
+      background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+      margin-top: 1.5em;
+    ">
+      Peer Mentors
+    </h1>
+</div>
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Esther Feng
     </p>
@@ -137,7 +147,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/adella.jpg" alt="adella" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/adella.jpg" alt="adella" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Adella Hu
     </p>
@@ -145,7 +155,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/jason.jpg" alt="jason" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/jason.jpg" alt="jason" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Jason Jiang
     </p>
@@ -153,7 +163,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/eric.jpg" alt="eric" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/eric.jpg" alt="eric" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Eric Liang
     </p>
@@ -161,7 +171,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Sienna Ni
     </p>
@@ -169,7 +179,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/kenny.jpg" alt="kenny" style="width: 130px; border-radius: 2px;" />
+    <img src="/assets/images/people/kenny.jpg" alt="kenny" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Kenny Su
     </p>
