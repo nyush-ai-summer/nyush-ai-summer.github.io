@@ -5,8 +5,7 @@ main:
 ai-summer:
   - title: "Course Home"
     url: "https://nyush-ai-summer.github.io/"
-    children:
-    - title: "About"
-      url: /about/
+  - title: "About"
+    url: /about/
 
 
