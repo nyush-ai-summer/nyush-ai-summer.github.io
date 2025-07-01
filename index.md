@@ -186,6 +186,7 @@ classes: wide
     <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
   </div>
 
+</div>
 
 <div>
     <h1 style="
@@ -241,6 +242,8 @@ classes: wide
         Albert Sun
     </p>
   </div>
+
+</div>
 
  
 
