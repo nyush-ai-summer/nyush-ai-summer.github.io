@@ -185,3 +185,65 @@ classes: wide
     </p>
     <p style="font-size: 14px; text-align: center;"> Major: Computer Science </p>
   </div>
+
+
+<div>
+    <h1 style="
+      background: -webkit-linear-gradient(left, #57068c 1%, #e00f78 100%);
+      -webkit-background-clip: text;
+      -webkit-text-fill-color: transparent;
+      display: inline-block;
+      margin-top: 1.5em;
+    ">
+      Program Ambassadors
+    </h1>
+</div>
+
+<div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
+  <div>
+    <img src="/assets/images/people/tianyao.jpg" alt="tianyao" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Tianyao Chen
+    </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Esther Feng
+    </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/andy.jpg" alt="andy" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Andy Li
+    </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/anna.jpg" alt="anna" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Anna Liu
+    </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Sienna Ni
+    </p>
+  </div>
+
+  <div>
+    <img src="/assets/images/people/albert.png" alt="albert" style="width: 120px; border-radius: 2px;" />
+    <p style="font-size: 18px; text-align: center;">
+        Albert Sun
+    </p>
+  </div>
+
+ 
+
+
+
+ 
