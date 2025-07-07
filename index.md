@@ -27,7 +27,7 @@ classes: wide
 | **Day5: Neural Networks** | Slide | Lab |
 | **Day6: Convolutional Neural Networks** | Slide | Lab |
 | **Day7: Advanced topics on Computer Vision** | Slide | Lab |
-| **Day8: Neural Language Modeling** | [Slide](assets/NLP.pdf) | [Lab](assets/Prompt_Engineering_Chatbot_DeepSeek_Full.zip) |
+| **Day8: Neural Language Modeling** | [Slide](assets/NLP.pdf) | [Lab](assets/Prompt_Engineering_Chatbot_DeepSeek_Full.ipynb.zip) |
 
 <div>
     <h1 style="
