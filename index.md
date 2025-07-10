@@ -20,14 +20,14 @@ classes: wide
   Course Overview
 </h1>
 
-| **Day1: Introduction to Artificial Intelligence** | Slide | Lab |
-| **Day2: Linear Regression** | Slide | Lab |
-| **Day3: Polynomial Regression, Regularization, Optimization** | Slide| Lab |
-| **Day4: Logistic Regression** | Slide| Lab |
-| **Day5: Neural Networks** | Slide | Lab |
-| **Day6: Convolutional Neural Networks** | Slide | Lab |
-| **Day7: Advanced topics on Computer Vision** | Slide | Lab |
-| **Day8: Neural Language Modeling** | [Slide](assets/NLP.pdf) | [Lab](assets/Prompt_Engineering_Chatbot_DeepSeek_Full.ipynb.zip) |
+| **Day1: Introduction to Artificial Intelligence** 
+| **Day2: Linear Regression** 
+| **Day3: Polynomial Regression, Regularization, Optimization** 
+| **Day4: Logistic Regression** 
+| **Day5: Neural Networks** 
+| **Day6: Convolutional Neural Networks**
+| **Day7: Object Detection,Clustering,PCA**
+| **Day8: Natural Language Processing and LLMs** 
 
 <div>
     <h1 style="
