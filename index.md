@@ -139,7 +139,7 @@ classes: wide
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/esther2.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Esther Feng
     </p>
@@ -147,7 +147,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/adella.jpg" alt="adella" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/adella2.jpg" alt="adella" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Adella Hu
     </p>
@@ -155,7 +155,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/jason.jpg" alt="jason" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/jason2.jpg" alt="jason" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Jason Jiang
     </p>
@@ -163,7 +163,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/eric.jpg" alt="eric" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/eric2.jpg" alt="eric" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Eric Liang
     </p>
@@ -171,7 +171,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/sienna2.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Sienna Ni
     </p>
@@ -202,42 +202,42 @@ classes: wide
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/tianyao.jpg" alt="tianyao" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/tianyao2.jpg" alt="tianyao" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Tianyao Chen
     </p>
   </div>
 
   <div>
-    <img src="/assets/images/people/esther.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/esther2.jpg" alt="esther" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Esther Feng
     </p>
   </div>
 
   <div>
-    <img src="/assets/images/people/andy.jpg" alt="andy" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/andy2.jpg" alt="andy" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Andy Li
     </p>
   </div>
 
   <div>
-    <img src="/assets/images/people/anna.jpg" alt="anna" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/anna2.jpg" alt="anna" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Anna Liu
     </p>
   </div>
 
   <div>
-    <img src="/assets/images/people/sienna.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/sienna2.jpg" alt="sienna" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Sienna Ni
     </p>
   </div>
 
   <div>
-    <img src="/assets/images/people/albert.png" alt="albert" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/albert2.jpg" alt="albert" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Albert Sun
     </p>
