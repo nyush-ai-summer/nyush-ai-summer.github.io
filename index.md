@@ -155,7 +155,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/jason2.jpg" alt="jason" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/jason3.jpg" alt="jason" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Jason Jiang
     </p>
@@ -202,7 +202,7 @@ classes: wide
 
 <div style="display: grid; grid-template-columns: repeat(6, 1fr); gap: 6px; text-align: center;">
   <div>
-    <img src="/assets/images/people/tianyao2.jpg" alt="tianyao" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/tianyao3.jpg" alt="tianyao" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Tianyao Chen
     </p>
@@ -216,7 +216,7 @@ classes: wide
   </div>
 
   <div>
-    <img src="/assets/images/people/andy2.jpg" alt="andy" style="width: 120px; border-radius: 2px;" />
+    <img src="/assets/images/people/andy3.jpg" alt="andy" style="width: 120px; border-radius: 2px;" />
     <p style="font-size: 18px; text-align: center;">
         Andy Li
     </p>
