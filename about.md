@@ -38,9 +38,9 @@ classes: wide
 
 <small>Students benefit from NYU’s global education network and resources while gaining opportunities to work alongside academic experts and industry leaders on cutting-edge topics ranging from algorithm optimization to generative AI. Here, computing is not just about code and algorithms — it bridges Eastern and Western knowledge and addresses global challenges. With a strong foundation in rigorous academics and cross-cultural collaboration, we empower students to become pioneers in driving technological innovation and shaping the global future.</small>
 
-## Shanghai Frontiers Science Center for Artificial Intelligence and Deep Learning
+## NYU Shanghai Center for Data Science
 
-<small>Founded in 2023 at NYU Shanghai, the [Shanghai Frontiers Science Center for Artificial Intelligence and Deep Learning](https://dail.shanghai.nyu.edu/) focuses on advancing research and innovation in AI and deep learning. The center seeks to investigate the mathematical principles and scientific foundations that support artificial intelligence by bringing together insights from mathematics, physics, chemistry, and other fields.</small>
+<small>Founded in 2023 at NYU Shanghai, the [NYU Shanghai Center for Data Science](https://dail.shanghai.nyu.edu/) focuses on advancing research and innovation in AI and deep learning. The center seeks to investigate the mathematical principles and scientific foundations that support artificial intelligence by bringing together insights from mathematics, physics, chemistry, and other fields.</small>
 
 <small>Uniting the leading interdisciplinary research talent at NYU Shanghai, the center is committed to developing the next generation of interpretable, adaptive, and human-centered AI learning algorithms. It also aims to extend deep learning technologies into pioneering areas like biochemistry, neuroscience, and innovative city engineering, working to achieve globally significant breakthroughs in AI research applications.</small>
 
