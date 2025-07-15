@@ -26,7 +26,7 @@ classes: wide
 | **Day4: Logistic Regression** 
 | **Day5: Neural Networks** 
 | **Day6: Convolutional Neural Networks**
-| **Day7: Object Detection,Clustering,PCA**
+| **Day7: Object Detection, Clustering, PCA**
 | **Day8: Natural Language Processing and LLMs** 
 
 <div>
